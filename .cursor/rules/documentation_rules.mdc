@@ -1,0 +1,7 @@
+---
+description:
+globs:
+alwaysApply: true
+---
+
+Always fetch the documentation for getting the context of the repository from ".cursor/documentation" directory
