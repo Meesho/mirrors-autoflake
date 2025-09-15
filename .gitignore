@@ -1,0 +1,8 @@
+.pre-commit-config.yaml
+trufflehog/
+
+.cursor/*
+!.cursor/rules/
+!.cursor/rules/**
+!.cursor/documentation/
+!.cursor/documentation/**
